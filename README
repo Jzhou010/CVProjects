@@ -1,1 +1,9 @@
 Computer Vision Project
+Required program: Matlab
+Database: CIFAR-10
+
+Simple Image Classifer:
+1. Make sure all m files are within the same location.
+2. Train a CNN feature extractor using the CNNTrain.m file.
+3. Classify images from the test set by runnning the TestFile.m
+4. certain parameters might need to be addressed depending on the system in which the files are run. 
